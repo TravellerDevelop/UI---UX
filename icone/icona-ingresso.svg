@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="More_Circle" data-name="More Circle" transform="translate(0.25 0.25)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(0.75 0.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M18.139.5H0" transform="translate(4.263 16.886) rotate(-45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

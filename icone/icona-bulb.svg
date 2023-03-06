@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Raggruppa_779" data-name="Raggruppa 779" transform="translate(-382 -342.087)">
+    <g id="Raggruppa_564" data-name="Raggruppa 564" transform="translate(-127 -84.141)">
+      <g id="Raggruppa_563" data-name="Raggruppa 563" transform="translate(514 428.228)">
+        <g id="Volume_Up" data-name="Volume Up" transform="translate(1.746 16.888) rotate(-90)">
+          <path id="Stroke_1" data-name="Stroke 1" d="M0,5.433c0,.954-.045,2.256.546,2.743.551.454.938.337,1.944.411s3.13,3.032,4.767,2.1c.844-.664.907-2.056.907-5.25S8.1.847,7.257.183C5.62-.753,3.5,2.205,2.491,2.28S1.1,2.236.547,2.69C-.043,3.177,0,4.478,0,5.433Z" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+        <g id="More_Circle" data-name="More Circle" transform="translate(0 0)">
+          <path id="Stroke_1-2" data-name="Stroke 1" d="M7.179,0A7.179,7.179,0,1,1,0,7.179,7.179,7.179,0,0,1,7.179,0Z" transform="translate(0 0)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+        <path id="Tracciato_364" data-name="Tracciato 364" d="M-.413,0H4.122L4.013,4.787l-4.232-.13Z" transform="translate(5.277 10.688)" fill="#fff"/>
+      </g>
+      <path id="Stroke_5" data-name="Stroke 5" d="M4.191.5H0" transform="translate(519.045 447.603)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <rect id="Rettangolo_2082" data-name="Rettangolo 2082" width="24" height="24" transform="translate(382 342.087)" fill="none"/>
+  </g>
+</svg>
